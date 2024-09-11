@@ -1,0 +1,6 @@
+To run use make command which is defined and detailed in Makefile
+
+***
+If both java files are in the same directory then simply instantiate the class even if its defined in another file.
+
+Rememeber compile with javac after every change, good idea to use a makefile.

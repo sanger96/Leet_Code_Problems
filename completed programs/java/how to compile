@@ -1,0 +1,10 @@
+You can run a .java file by just using
+java fileName.java
+
+If you need to compile you have to have the class name match the file name and use;
+javac className.java
+--this will return--
+className.class
+
+note you need to run the main that has the class file and run it from the directory that contains the main file
+

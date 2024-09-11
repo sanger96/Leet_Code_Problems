@@ -1,0 +1,1 @@
+g++ [name of file to compile].cpp -o [name of compiled file]
